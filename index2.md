@@ -1,5 +1,4 @@
 <link href="https://unpkg.com/bootstrap-table@1.17.1/dist/bootstrap-table.min.css" rel="stylesheet">
-
 <script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
 <script src="https://unpkg.com/bootstrap-table@1.17.1/dist/bootstrap-table.min.js"></script>
 <script src="https://unpkg.com/bootstrap-table@1.17.1/dist/bootstrap-table-locale-all.min.js"></script>
@@ -38,3 +37,4 @@
   data-url="https://examples.wenzhixin.net.cn/examples/bootstrap_table/data"
   data-response-handler="responseHandler">
 </table>
+<script src="demo2.js"></script>
