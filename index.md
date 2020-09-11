@@ -26,28 +26,32 @@ C1: Identificar , formular y resolver problemas de ingeniería
         </thead>
         <tbody>
             <tr>
-                <td>Tiger Nixon</td>
-                <td>System Architect</td>
-                <td>Edinburgh</td>
-                <td>61</td>
-                <td>2011/04/25</td>
-                <td>$320,800</td>
-                <td>Tiger Nixon</td>
-                <td>System Architect</td>
-                <td>Edinburgh</td>
-                <td>61</td>
+                <td>A</td>
+                <td>M</td>
+                <td>B</td>
+                <td>M</td>
+                <td>A</td>
+                <td>A</td>
+                <td>A</td>
+                <td>M</td>
+                <td>B</td>
+                <td>A</td>
+                <td>B</td>
+                <td>A</td>
             </tr>
             <tr>
-                <td>Tiger Nixon</td>
-                <td>System Architect</td>
-                <td>Edinburgh</td>
-                <td>61</td>
-                <td>2011/04/25</td>
-                <td>$320,800</td>
-                <td>Tiger Nixon</td>
-                <td>System Architect</td>
-                <td>Edinburgh</td>
-                <td>61</td>
+                <td>A</td>
+                <td>M</td>
+                <td>B</td>
+                <td>M</td>
+                <td>A</td>
+                <td>A</td>
+                <td>A</td>
+                <td>M</td>
+                <td>B</td>
+                <td>A</td>
+                <td>B</td>
+                <td>A</td>
             </tr>
         </tbody>
     </table>
