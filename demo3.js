@@ -10,7 +10,7 @@ $(document).ready(function() {
         buttons: [
             {
                 extend: 'colvis',
-                text: 'Elegir Competencia',
+                text: 'ocultar/ver Competencia',
                 columns: ':not(.noVis)'
             }
         ]
