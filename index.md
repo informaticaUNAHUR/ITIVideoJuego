@@ -53,5 +53,33 @@ C1: Identificar , formular y resolver problemas de ingeniería
                 <td>B</td>
                 <td>A</td>
             </tr>
+                 <tr>
+                <td>Resolución de Problemas</td>
+                <td>A</td>
+                <td>A</td>
+                <td>M</td>
+                <td>B</td>
+                <td>B</td>
+                <td>A</td>
+                <td>M</td>
+                <td>M</td>
+                <td>B</td>
+                <td>M</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td>AB de Problemas</td>
+                <td>M</td>
+                <td>M</td>
+                <td>A</td>
+                <td>A</td>
+                <td>M</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>M</td>
+                <td>M</td>
+                <td>B</td>
+            </tr>
         </tbody>
     </table>
