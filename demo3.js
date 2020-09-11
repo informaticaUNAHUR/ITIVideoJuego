@@ -1,15 +1,5 @@
 $(document).ready(function() {
-    var table = $('#example').DataTable();
-    
-    $('#example tbody').on( 'click', 'tr', function () {
-        $(this).toggleClass('selected');
-    } );
- 
-    $('#button').click( function () {
-        alert( table.rows('.selected').data().length +' row(s) selected' );
-    } );
-    
-    table({
+    var table = $('#example').DataTable({
         dom: 'Bfrtip',
         columnDefs: [
             {
@@ -23,5 +13,13 @@ $(document).ready(function() {
                 columns: ':not(.noVis)'
             }
         ]
+    });
+    
+    $('#example tbody').on( 'click', 'tr', function () {
+        $(this).toggleClass('selected');
+    } );
+ 
+    $('#button').click( function () {
+        alert( table.rows('.selected').data().length +' row(s) selected' );
     } );
 } );
