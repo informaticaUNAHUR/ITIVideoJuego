@@ -6,15 +6,19 @@
 <script src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.colVis.min.js"></script>
 <script src="demo3.js"></script>
 <h3>FUNCIONAMIENTO DEL CATÁLOGO</h3>
-<blockquote>
-        <p>Paso 1</p>
-"El docente elige en la tabla las competencias u objetivos de aprendizaje que pretende desarrollar con el botón ver/ocultar COMPETENCIAS"
-        <p>Paso 2</p>
-"El docente puede ordenar por la contribución de la herramienta/concepto a la competencia que quiere trabajar." 
-        <p>Paso 3</p>
-"Se puede seleccionar una herramienta y presionar el botón VER
-El catélogo muestra como resultado sugerencias más adecuadas para desarrollar los objetivos de aprendizaje buscados según la experiencia del docente de las diferentes herramientas, recursos y entornos"
-</blockquote>
+<h4>Paso 1</h4>
+<ul>
+        <li>El docente elige en la tabla las competencias u objetivos de aprendizaje que pretende desarrollar con el botón ver/ocultar COMPETENCIAS</li>
+</ul>
+<h4>Paso 2</h4>
+<ul>
+        <li>El docente puede ordenar por la contribución de la herramienta/concepto a la competencia que quiere trabajar.</li>
+</ul>
+<h4>Paso 3</h4>
+<ul>
+        <li>Se puede seleccionar una herramienta y presionar el botón VER</li>
+        <li>El catélogo muestra como resultado sugerencias más adecuadas para desarrollar los objetivos de aprendizaje buscados según la experiencia del docente de las diferentes herramientas, recursos y entornos</li>
+</ul>
 <h2>COMPETENCIAS</h2>
 <div>
 C1: Identificar , formular y resolver problemas de ingeniería
