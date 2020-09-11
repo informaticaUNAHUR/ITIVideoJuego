@@ -26,7 +26,7 @@ C1: Identificar , formular y resolver problemas de ingeniería
         </thead>
         <tbody>
             <tr>
-                <td>A</td>
+                <td>Lección Magistral</td>
                 <td>M</td>
                 <td>B</td>
                 <td>M</td>
@@ -40,7 +40,7 @@ C1: Identificar , formular y resolver problemas de ingeniería
                 <td>A</td>
             </tr>
             <tr>
-                <td>A</td>
+                <td>Resolución de Ejercicios</td>
                 <td>M</td>
                 <td>B</td>
                 <td>M</td>
