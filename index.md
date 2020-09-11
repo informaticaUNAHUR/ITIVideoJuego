@@ -5,7 +5,7 @@
 <script src="https://cdn.datatables.net/buttons/1.6.2/js/dataTables.buttons.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.colVis.min.js"></script>
 <script src="demo3.js"></script>
-<h1>FUNCIONAMIENTO DEL CATÁLOGO</h1>
+<h3>FUNCIONAMIENTO DEL CATÁLOGO</h3>
 <blockquote>
         <p>Paso 1</p>
 "El docente elige en la tabla las competencias u objetivos de aprendizaje que pretende desarrollar con el botón ver/ocultar COMPETENCIAS"
