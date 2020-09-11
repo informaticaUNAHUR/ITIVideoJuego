@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var table = $('#example').DataTable();
- 
+    console.log(table);
     $('#example tbody').on( 'click', 'tr', function () {
         $(this).toggleClass('selected');
     } );
