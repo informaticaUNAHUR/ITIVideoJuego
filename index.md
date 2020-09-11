@@ -28,7 +28,6 @@ C1: Identificar , formular y resolver problemas de ingeniería
         <thead>
             <tr>
                 <th>Herramienta Recurso</th>
-                <th>Dominio</th>
                 <th>C1</th>
                 <th>C2</th>
                 <th>C3</th>
@@ -44,7 +43,6 @@ C1: Identificar , formular y resolver problemas de ingeniería
         <tbody>
             <tr>
                 <td>Lección Magistral</td>
-                <td>M</td>
                 <td>B</td>
                 <td>M</td>
                 <td>A</td>
@@ -58,7 +56,6 @@ C1: Identificar , formular y resolver problemas de ingeniería
             </tr>
             <tr>
                 <td>Resolución de Ejercicios</td>
-                <td>M</td>
                 <td>B</td>
                 <td>M</td>
                 <td>A</td>
@@ -73,7 +70,6 @@ C1: Identificar , formular y resolver problemas de ingeniería
                  <tr>
                 <td>Resolución de Problemas</td>
                 <td>A</td>
-                <td>A</td>
                 <td>M</td>
                 <td>B</td>
                 <td>B</td>
@@ -86,7 +82,6 @@ C1: Identificar , formular y resolver problemas de ingeniería
             </tr>
             <tr>
                 <td>AB de Problemas</td>
-                <td>M</td>
                 <td>M</td>
                 <td>A</td>
                 <td>A</td>
