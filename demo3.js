@@ -6,7 +6,7 @@ $(document).ready(function() {
         dom: 'Bfrtip',
         columnDefs: [
             {
-                targets: 0,
+                targets: 1,
                 className: 'noVis'
             }
         ],
