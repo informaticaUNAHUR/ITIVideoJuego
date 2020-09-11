@@ -5,6 +5,16 @@
 <script src="https://cdn.datatables.net/buttons/1.6.2/js/dataTables.buttons.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.colVis.min.js"></script>
 <script src="demo3.js"></script>
+<h1>FUNCIONAMIENTO DEL CATÁLOGO</h1>
+<div>
+        <b>Paso 1</b></br>
+El docente elige en la tabla las competencias u objetivos de aprendizaje que pretende desarrollar con el botón "ver/ocultar COMPETENCIAS"
+        <b>Paso 2</b></br>
+El docente completa elige el grado de dominio y experiencia que posee de las herramientas y recursos de enseñanza propuestos en la tabla. 
+        <b>Paso 3</b></br>
+El Sistema da como resultado las sugerencias más adecuadas para desarrollar los objetivos de aprendizaje buscados según la experiencia del docente de las diferentes herramientas, recursos y entornos
+
+</div>
 <h2>COMPETENCIAS</h2>
 <div>
 C1: Identificar , formular y resolver problemas de ingeniería
