@@ -6,20 +6,20 @@
 <script src="https://cdn.datatables.net/buttons/1.6.2/js/buttons.colVis.min.js"></script>
 <script src="demo3.js"></script>
 <h1>FUNCIONAMIENTO DEL CATÁLOGO</h1>
-<div>
-        <b>Paso 1</b></br>
-El docente elige en la tabla las competencias u objetivos de aprendizaje que pretende desarrollar con el botón "ver/ocultar COMPETENCIAS"
-        <b>Paso 2</b></br>
-El docente completa elige el grado de dominio y experiencia que posee de las herramientas y recursos de enseñanza propuestos en la tabla. 
-        <b>Paso 3</b></br>
-El Sistema da como resultado las sugerencias más adecuadas para desarrollar los objetivos de aprendizaje buscados según la experiencia del docente de las diferentes herramientas, recursos y entornos
-
-</div>
+<blockquote>
+        <p>Paso 1</p>
+"El docente elige en la tabla las competencias u objetivos de aprendizaje que pretende desarrollar con el botón ver/ocultar COMPETENCIAS"
+        <p>Paso 2</p>
+"El docente puede ordenar por la contribución de la herramienta/concepto a la competencia que quiere trabajar." 
+        <p>Paso 3</p>
+"Se puede seleccionar una herramienta y presionar el botón VER
+El catélogo muestra como resultado sugerencias más adecuadas para desarrollar los objetivos de aprendizaje buscados según la experiencia del docente de las diferentes herramientas, recursos y entornos"
+</blockquote>
 <h2>COMPETENCIAS</h2>
 <div>
 C1: Identificar , formular y resolver problemas de ingeniería
 </div>
-<button id="button" type="button" class="">VER</button>
+
 <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
@@ -96,3 +96,6 @@ C1: Identificar , formular y resolver problemas de ingeniería
             </tr>
         </tbody>
     </table>
+<div>
+        <button id="button" type="button" class="">VER</button>
+</div>
