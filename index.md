@@ -2,7 +2,7 @@
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
 <script src="demo.js"></script>
-<div id="button">VER</div> 
+<button id="button" type="button" class="">VER</button>
 <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
