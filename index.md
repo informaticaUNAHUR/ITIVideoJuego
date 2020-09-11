@@ -22,6 +22,10 @@
 <h2>COMPETENCIAS</h2>
 <div>
 C1: Identificar , formular y resolver problemas de ingeniería
+C2: Concebir, diseñar y desarrollar proyectos de ingeniería
+C3: 
+C4:
+C5:
 </div>
 
 <table id="example" class="display" style="width:100%">
