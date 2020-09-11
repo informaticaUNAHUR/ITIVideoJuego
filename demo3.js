@@ -12,7 +12,7 @@ $(document).ready(function() {
         } );
     } );
     
-    $('#example').DataTable( {
+    table {
         dom: 'Bfrtip',
         columnDefs: [
             {
