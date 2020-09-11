@@ -7,9 +7,6 @@ $(document).ready(function() {
  
     $('#button').click( function () {
         alert( table.rows('.selected').data().length +' row(s) selected' );
-        table( {
-            select: true
-        } );
     } );
     
     table({
