@@ -100,7 +100,7 @@
     /*  Magnific Pop up js (Home Video)
     /*----------------------------------------------------*/
     $('#play-home-video').magnificPopup({
-        type: 'iframe',
+        type: 'iframe', 
         mainClass: 'mfp-fade',
         removalDelay: 160,
         preloader: false,
